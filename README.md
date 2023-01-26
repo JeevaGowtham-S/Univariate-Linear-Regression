@@ -43,6 +43,9 @@ plt.show()
 
 ```
 ## Output
+![Screenshot from 2023-01-26 13-43-00](https://user-images.githubusercontent.com/118042624/214787096-f506a51a-1c24-42fa-9720-2b982fe6f059.png)
+
+
 </br>
 </br>
 </br>
